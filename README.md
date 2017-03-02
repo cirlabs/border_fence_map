@@ -6,7 +6,7 @@ Reveal's border fence shapefiles are open data, licensed under the Open Data Com
 
 You are free to copy, distribute, transmit and adapt the shapefiles, so long as you:
 
-- Credit Reveal as specified below
+- Credit Reveal as specified below.
 - Inform Reveal that you are using the shapefiles in your work by emailing Michael Corey at mcorey@revealnews.org.
 
 If you alter or build upon our data, you may distribute the result only under the same licence. The [full legal code](https://opendatacommons.org/licenses/odbl/1.0/) explains your rights and responsibilities.
