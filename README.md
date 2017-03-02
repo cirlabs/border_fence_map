@@ -11,7 +11,7 @@ You are free to copy, distribute, transmit and adapt the shapefiles, so long as 
 
 If you alter or build upon our data, you may distribute the result only under the same licence. The full legal code explains your rights and responsibilities.
 
-How to credit Reveal
+###How to credit Reveal
 
 We require that you use the credit “Reveal, from the Center for Investigative Reporting and OpenStreetMap contributors”.
 
