@@ -13,7 +13,7 @@ If you alter or build upon our data, you may distribute the result only under th
 
 ###How to credit Reveal
 
-We require that you use the credit “Reveal from the Center for Investigative Reporting and OpenStreetMap contributors”. The credit must link to https://www.revealnews.org/wall/, unless the credit is appearing in printed media.
+We require that you use the credit “Reveal from The Center for Investigative Reporting and OpenStreetMap contributors”. The credit must link to https://www.revealnews.org/wall/, unless the credit is appearing in printed media.
 
 You must also make it clear that the data is available under the Open Database License. If you are distributing the shapefiles in a data form, you can name and [link directly to the license](https://opendatacommons.org/licenses/odbl/1.0/). 
 
