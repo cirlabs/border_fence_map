@@ -22,7 +22,7 @@ You must also make it clear that the data is available under the Open Database L
 The first six fields are the primary fields of interest for most users. The remaining fields are to preserve references to OpenStreetMap data from [our original fence map project](http://cironline.org/blog/post/surprising-tools-cir-used-map-us-mexico-border-fence-6255). While the current fence data has not been imported into OpenStreetMap, we hope to do so in the future.
 
 |Column name|Format|Description|
-|-|-|-|
+|---|---|---|
 |id|integer|Row ID|
 |gen_type|string|General type of fence. Options are "pedestrian," "vehicle" and an empty string for unknown fence types.|
 |project|string|Which government project was the segment built under. Options are "Legacy" (i.e. built before the Secure Fence Act), "PF225", "VF300" and "PF70"|
