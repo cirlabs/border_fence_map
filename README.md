@@ -2,7 +2,7 @@
 GIS data for the U.S.-Mexico border fence (perhaps a wall in the future)
 
 ### Copyright and license
-Reveal's border fence shapefiles are open data, licensed under the Open Data Commons Open Database License (ODbL) by Reveal, from The Center for Investgative Reporting.
+Reveal's border fence shapefiles are open data, licensed under the Open Data Commons Open Database License (ODbL) by Reveal, from The Center for Investigative Reporting.
 
 You are free to copy, distribute, transmit and adapt the shapefiles, so long as you:
 
