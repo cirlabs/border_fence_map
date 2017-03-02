@@ -17,5 +17,20 @@ We require that you use the credit “Reveal, from the Center for Investigative 
 
 You must also make it clear that the data is available under the Open Database License. If you are distributing the shapefiles in a data form, you can name and [link directly to the license](https://opendatacommons.org/licenses/odbl/1.0/). 
 
+### Fields in the data
+
+The first six fields are the primary fields of interest for most users. The remaining fields are to preserve references to OpenStreetMap data from [our original fence map project](http://cironline.org/blog/post/surprising-tools-cir-used-map-us-mexico-border-fence-6255). While the current fence data has not been imported into OpenStreetMap, we hope to do so in the future.
+
+id
+gen_type
+project
+seg_name
+created
+updated
+last_osm_d
+way_id
+barrier
+taglist
+
 ### More about the project
 You can [read more about our fence/wall mapping work on our website.](https://www.revealnews.org/article/the-wall-building-a-continuous-u-s-mexico-barrier-would-be-a-tall-order/)
