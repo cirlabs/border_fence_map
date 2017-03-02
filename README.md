@@ -25,14 +25,14 @@ The first six fields are the primary fields of interest for most users. The rema
 |---|---|---|
 |id|integer|Row ID|
 |gen_type|string|General type of fence. Options are "pedestrian," "vehicle" and an empty string for unknown fence types.|
-|project|string|Which government project was the segment built under. Options are "Legacy" (i.e. built before the Secure Fence Act), "PF225", "VF300" and "PF70"|
-seg_name
-created
-updated
-last_osm_d
-way_id
-barrier
-taglist
+|project|string|Which government project was the segment built under. Options are "Legacy" (i.e. built before the Secure Fence Act), "PF225", "VF300", "PF70" and an empty string for unknown fence types.|
+|seg_name|string|The U.S. government name for the segment. All non-legacy fencing segments should have designations.|
+|created|date/time stamp|The date/time when the segment was created in Reveal's database.|
+|updated|date/time stamp|The date/time when the segment was last updated in Reveal's database.|
+|last_osm_d|date/time stamp|The date/time when the segment was last edited in OpenStreetMap, where applicable.|
+|way_id|integer|OpenStreetMap way id when downloaded, where applicable.|
+|barrier|string|OpenStreetMap barrier tag, where applicable.|
+|taglist|string|OpenStreetMap tag list, where applicable.|
 
 ### More about the project
 You can [read more about our fence/wall mapping work on our website.](https://www.revealnews.org/article/the-wall-building-a-continuous-u-s-mexico-barrier-would-be-a-tall-order/)
