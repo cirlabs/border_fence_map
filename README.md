@@ -15,7 +15,7 @@ If you alter or build upon our data, you may distribute the result only under th
 
 We require that you use the credit “Reveal from The Center for Investigative Reporting and OpenStreetMap contributors”. The credit must link to https://www.revealnews.org/wall/, unless the credit is appearing in printed media.
 
-You must also make it clear that the data is available under the Open Database License. If you are distributing the shapefiles in a data form, you can name and [link directly to the license](https://opendatacommons.org/licenses/odbl/1.0/). 
+You must also make it clear that the data is available under the Open Database License. If you are distributing the shapefiles in a data form, you can name and [link directly to the license](https://opendatacommons.org/licenses/odbl/1.0/).
 
 ### Fields in the data
 
@@ -24,8 +24,8 @@ The first six fields are the primary fields of interest for most users. The rema
 |Column name|Format|Description|
 |---|---|---|
 |id|integer|Row ID|
-|gen_type|string|General type of fence. Options are "pedestrian," "vehicle" and an empty string for unknown fence types.|
-|project|string|Which government project was the segment built under. Options are "Legacy" (i.e. built before the Secure Fence Act), "PF225", "VF300", "PF70" and an empty string for unknown fence types.|
+|gen_type|string|General type of fence. Options are "pedestrian," "vehicle," "unbuilt" for segments that were planned at one point but have not been built, and an empty string for unknown fence types.|
+|project|string|Which government project was the segment built under. Options are "Legacy" (i.e. built before the Secure Fence Act), "PF225", "VF300", "PF70," "unbuilt" for segments that were planned at one point but have not been built, and an empty string for unknown fence types.|
 |seg_name|string|The U.S. government name for the segment. All non-legacy fencing segments should have designations.|
 |created|date/time stamp|The date/time when the segment was created in Reveal's database.|
 |updated|date/time stamp|The date/time when the segment was last updated in Reveal's database.|
