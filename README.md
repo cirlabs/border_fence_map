@@ -11,11 +11,11 @@ You are free to copy, distribute, transmit and adapt the shapefiles, so long as 
 
 If you alter or build upon our data, you may distribute the result only under the same licence. The [full legal code](https://opendatacommons.org/licenses/odbl/1.0/) explains your rights and responsibilities.
 
-###How to credit Reveal
+### How to credit Reveal
 
 We require that you use the credit “Reveal from The Center for Investigative Reporting and OpenStreetMap contributors”. The credit must link to https://www.revealnews.org/wall/, unless the credit is appearing in printed media.
 
-You must also make it clear that the data is available under the Open Database License. If you are distributing the shapefiles in a data form, you can name and [link directly to the license](https://opendatacommons.org/licenses/odbl/1.0/). 
+You must also make it clear to anyone who requests access to the data that it is available under the Open Database License. If you are distributing the shapefiles in a data form, you can name and [link directly to the license](https://opendatacommons.org/licenses/odbl/1.0/). 
 
 ### Fields in the data
 
